@@ -21,7 +21,7 @@
   },
   "scripts": {},
   "dependencies": {
-    "retire": "~1.6.x",
+    "retire": "~4.0.0",
     "async": "~1.5.x",
     "request": "2.x.x"
   },
